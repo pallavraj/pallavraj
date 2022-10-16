@@ -1,4 +1,4 @@
-- 👋 Hi, I’m pallavraj
+- 👋 Hi, I’m PALLAV RAJ.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on MERN or JAVA stack.
